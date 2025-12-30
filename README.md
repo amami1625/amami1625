@@ -11,18 +11,15 @@
 
 ## My Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,ruby,rails,postgres,supabase,docker,linux,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,ts,react,nextjs,nodejs,ruby,rails,php,laravel,postgres,mysql,docker,linux,git,github,githubactions" />
 </p>
 
 ## Learning...
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,vim,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=rust,golang,ubuntu,vim,supabase" />
 </p>
 
-## Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=notion,figma" />
-</p>
+
 <!--
 **amami1625/amami1625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
