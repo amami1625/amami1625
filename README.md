@@ -16,7 +16,7 @@
 
 ## Learning...
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,golang,ubuntu,vim,supabase" />
+  <img src="https://skillicons.dev/icons?i=rust,golang,ubuntu,vim,supabase,firebase" />
 </p>
 
 
