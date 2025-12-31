@@ -1,14 +1,3 @@
-## About me
-プログラミング学習中です！
-
----
-
-## Stats
-
-![Stats Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amami1625&theme=github)
-![Stats Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amami1625&theme=github)
-![Stats Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amami1625&theme=github)
-
 ## My Skills
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,ts,react,nextjs,nodejs,ruby,rails,php,laravel,postgres,mysql,docker,linux,git,github,githubactions" />
@@ -18,6 +7,13 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=rust,golang,ubuntu,vim,supabase,firebase" />
 </p>
+
+## Stats
+![Stats Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amami1625&theme=github)
+![Stats Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amami1625&theme=github)
+![Stats Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amami1625&theme=github)
+
+
 
 
 <!--
